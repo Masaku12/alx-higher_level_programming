@@ -1,5 +1,6 @@
-###Tasks
-0. Positive anything is better than negative nothing
+### Tasks
+
+## 0. Positive anything is better than negative nothing
 mandatory
 Score: 50.0% (Checks completed: 100.0%)
 This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print whether the number stored in the variable number is positive or negative.
@@ -38,8 +39,8 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x01-python-if_else_loops_functions
 File: 0-positive_or_negative.py
     
-1. The last digit
-mandatory
+## 1. The last digit
+
 Score: 50.0% (Checks completed: 100.0%)
 This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable number.
 
@@ -83,8 +84,8 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x01-python-if_else_loops_functions
 File: 1-last_digit.py
     
-2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
-mandatory
+## 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
+
 Score: 50.0% (Checks completed: 100.0%)
 Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.
 
@@ -100,8 +101,8 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x01-python-if_else_loops_functions
 File: 2-print_alphabet.py
     
-3. When I was having that alphabet soup, I never thought that it would pay off
-mandatory
+## 3. When I was having that alphabet soup, I never thought that it would pay off
+
 Score: 50.0% (Checks completed: 100.0%)
 Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.
 
@@ -118,8 +119,8 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x01-python-if_else_loops_functions
 File: 3-print_alphabt.py
     
-4. Hexadecimal printing
-mandatory
+## 4. Hexadecimal printing
+
 Score: 50.0% (Checks completed: 100.0%)
 Write a program that prints all numbers from 0 to 98 in decimal and in hexadecimal (as in the following example)
 
@@ -158,8 +159,8 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x01-python-if_else_loops_functions
 File: 4-print_hexa.py
     
-5. 00...99
-mandatory
+## 5. 00...99
+
 Score: 0.0% (Checks completed: 0.0%)
 Write a program that prints numbers from 0 to 99.
 
@@ -179,9 +180,8 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x01-python-if_else_loops_functions
 File: 5-print_comb2.py
      
-6. Inventing is a combination of brains and materials. The more brains you use, the less material you need
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
+## 6. Inventing is a combination of brains and materials. The more brains you use, the less material you need
+
 Write a program that prints all possible different combinations of two digits.
 
 Numbers must be separated by ,, followed by a space
@@ -203,9 +203,8 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x01-python-if_else_loops_functions
 File: 6-print_comb3.py
      
-7. islower
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
+## 7. islower
+
 Write a function that checks for lowercase character.
 
 Prototype: def islower(c):
@@ -239,9 +238,8 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x01-python-if_else_loops_functions
 File: 7-islower.py
      
-8. To uppercase
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
+## 8. To uppercase
+
 Write a function that prints a string in uppercase followed by a new line.
 
 Prototype: def uppercase(str):
@@ -269,9 +267,8 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x01-python-if_else_loops_functions
 File: 8-uppercase.py
      
-9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
+## 9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
+
 Write a function that prints the last digit of a number.
 
 Prototype: def print_last_digit(number):
@@ -297,9 +294,8 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x01-python-if_else_loops_functions
 File: 9-print_last_digit.py
      
-10. a + b
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
+## 10. a + b
+
 Write a function that adds two integers and returns the result.
 
 Prototype: def add(a, b):
@@ -326,9 +322,8 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x01-python-if_else_loops_functions
 File: 10-add.py
      
-11. a ^ b
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
+## 11. a ^ b
+
 Write a function that computes a to the power of b and return the value.
 
 Prototype: def pow(a, b):
@@ -359,9 +354,8 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x01-python-if_else_loops_functions
 File: 11-pow.py
      
-12. Fizz Buzz
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
+## 12. Fizz Buzz
+
 Write a function that prints the numbers from 1 to 100 separated by a space.
 
 For multiples of three print Fizz instead of the number and for multiples of five print Buzz.
@@ -387,9 +381,8 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x01-python-if_else_loops_functions
 File: 12-fizzbuzz.py
      
-13. Insert in sorted linked list
-mandatory
-Score: 0.0% (Checks completed: 0.0%)
+## 13. Insert in sorted linked list
+
 Technical interview preparation:
 
 You are not allowed to google anything
