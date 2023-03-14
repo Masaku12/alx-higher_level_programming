@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# program that prints all possible different combinations of two digits
 i = 0
 while i < 10:
     j = i + 1
