@@ -3,8 +3,10 @@
 
 /**
  * insert_node - Function to insert number in a sorted linked list
+ *
  * @head: Pointer to pointer to head of listint_t
  * @number: Number to be inserted
+ *
  * Return: Pointer to the head
  */
 
