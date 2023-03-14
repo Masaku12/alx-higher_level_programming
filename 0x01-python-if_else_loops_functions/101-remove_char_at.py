@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# program that prints the ASCII alphabet
+# function that creates a copy of the string
 def remove_char_at(str, n):
     s = ""
     for i in range(len(str)):
